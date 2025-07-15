@@ -1,0 +1,11 @@
+{
+  "key": "heimuer",
+  "name": "heimuer",
+  "type": 3,
+  "api": "https://json02.heimuer.xyz/api.php/provide/vod/?ac=list",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "playerType": "heimuer",
+  "playUrl": "https://hoplayer.com/index.html?url="
+}
